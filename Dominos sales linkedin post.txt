@@ -1,0 +1,39 @@
+Greetings everyone,
+
+I'm thrilled to present my first project on data analysis, a fusion of SQL and PowerBI, centered around an in-depth analysis of Domino's Pizza Sales Performance.
+
+🍕 **SQL+PowerBI Project Showcase: Domino's Pizza Sales Performance Analysis** 🍕
+
+🔶 **Objective**: To supercharge Domino's Sales by delving into the 2022 data, uncovering pivotal insights.
+
+🔶 **Understanding Requirement**:
+➡ Dive deep into Pizza Sales data for key indicators. Metrics include: Total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. 📊
+➡ Visualize various aspects of pizza sales data to glean insights and grasp key trends:
+1. Daily trend for total orders 📈
+2. Monthly trend for total orders 📅
+3. Percentage of sales by pizza Category 🍕
+4. Percentage of sales by pizza size 📐
+5. Total pizzas sold by pizza category 📊
+6. Top 5 best sellers by revenue, total quantity, and total orders 🥇
+7. Bottom 5 worst sellers by revenue, total quantity, and total orders 🥉
+
+🛠 **Tools Used**: MsSql, and Power BI
+
+⚙ **Skills Applied**: Data Cleaning, Data Transformation, ETL, Power Query, DAX (Data Analysis Expression) for Measures and Metrics, Data analysis, Data visualization, Report, and Dashboard. Plus, data validation through SQL queries.
+
+🗝 **Key Insights**:
+- KPIs: Total Revenue: $ 817.86K, Total Orders: 21350, Total Pizzas Sold: 49574, Average Order Value: $ 38.31 💰
+- Daily Trend: Weekends and Mondays/Tuesdays in the afternoon and evening saw higher orders. 📈
+- Monthly Trend: Peaks in July/August, with solid orders in January, March, and May. 📅
+- Pizza Category: Classic pizzas stole the show in sales and orders. 🍕
+- Pizza Size: Large pizzas ruled the roost (45.89% of total sales) 📐
+- Revenue Champs: Thai Chicken Pizza (Max) vs. Brie Carre Pizza (Min) 💵
+- Total Orders Royalty: Classic Deluxe Pizza (Max) vs. Brie Carre Pizza (Min) 📦
+- Quantity Kingpins: Classic Deluxe Pizza (Max) vs. Brie Carre Pizza (Min) 🍕
+
+🔷 A colossal thanks to my mentors **SHAILJA MISHRA** 🟢  and **Shashank Mishra** , along with the stellar Grow Data Skills team, for their unwavering guidance and support throughout my data analytics journey. 
+
+💠 **Your feedback and suggestions are invaluable**. Let's keep growing together! 🚀
+
+Thank you. 🙏
+
